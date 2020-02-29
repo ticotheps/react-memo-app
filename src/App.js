@@ -1,6 +1,10 @@
 import React, { Component } from 'react';
 
 export default class App extends Component {
+	state = {
+		time: new Date()
+	};
+
 	render() {
 		return (
 			<div>
