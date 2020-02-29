@@ -18,3 +18,9 @@ body {
 	justify-content: center;
 	align-items: center;
 }
+
+h1,
+h3 {
+	margin: 3rem;
+	text-align: center;
+}
